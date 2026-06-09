@@ -1,8 +1,7 @@
 package Basics_Assignment;
 
 /**
- * @author JALA Academy
- * Website Reference : https://java.jalaacademy.com/java/java_basics.html
+ * 
 
  * 3. Write a program for a Single line comment, multi-line and documentation comments.
  */

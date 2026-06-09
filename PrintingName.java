@@ -1,7 +1,6 @@
 package Basics_Assignment;
 
 /*
- *
  * 2. Write a program to print your name.
  */
 

@@ -1,8 +1,6 @@
 package Basics_Assignment;
 
 /**
- * @author JALA Academy
- * Website Reference : https://java.jalaacademy.com/java/java_basics.html
  *
  * 5. Define the local and Global variables with the same name and print both variables and
  * understand the scope of the variables

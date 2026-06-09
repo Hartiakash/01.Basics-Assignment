@@ -1,7 +1,6 @@
 package Basics_Assignment;
 
 /**
- *
  * 4. Define variables for different Data Types int, Boolean, char, float,
  * double and print on the Console
  */

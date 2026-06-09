@@ -1,8 +1,6 @@
 package Basics_Assignment;
 
-/**
- * @author JALA Academy
- * Website Reference : https://java.jalaacademy.com/java/java_basics.html
+/*
  *
  * 2. Write a program to print your name.
  */

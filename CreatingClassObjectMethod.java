@@ -1,7 +1,6 @@
 package Basics_Assignment;
 
 /**
- *
  * 1. How to create a class, object, method and its signature.
  */
 

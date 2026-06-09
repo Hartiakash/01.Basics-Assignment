@@ -1,8 +1,6 @@
 package Basics_Assignment;
 
 /**
- * @author JALA Academy
- * Website Reference : https://java.jalaacademy.com/java/java_basics.html
  *
  * 6. Write a function to print your name and call the function from main method.
  */

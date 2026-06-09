@@ -1,8 +1,6 @@
 package Basics_Assignment;
 
 /**
- * 
-
  * 3. Write a program for a Single line comment, multi-line and documentation comments.
  */
 

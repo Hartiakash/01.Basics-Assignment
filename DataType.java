@@ -1,8 +1,6 @@
 package Basics_Assignment;
 
 /**
- * @author JALA Academy
- * Website Reference : https://java.jalaacademy.com/java/java_basics.html
  *
  * 4. Define variables for different Data Types int, Boolean, char, float,
  * double and print on the Console
